@@ -1,0 +1,4 @@
+# uruntakipSQL
+c#uruntakipornegiSQL
+
+
